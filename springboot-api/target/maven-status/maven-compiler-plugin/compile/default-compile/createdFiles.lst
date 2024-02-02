@@ -1,0 +1,5 @@
+com\example\springboot\controllers\ProductController.class
+com\example\springboot\SpringbootApplication.class
+com\example\springboot\models\ProductModel.class
+com\example\springboot\dtos\ProductRecordDto.class
+com\example\springboot\repositories\ProductRepository.class
