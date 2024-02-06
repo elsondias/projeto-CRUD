@@ -1,1 +1,5 @@
-#Projeto CRUD com construção de API feito em JAVA - SpringBoot
+Esse projeto foi desenvolvido com as seguintes tecnologias
+
+° Java (Spring Boot)
+° Postgree
+° Postman
